@@ -4,3 +4,4 @@
 - TabbedPage
 - Shell - Flyout
 - Shell - TabBar
+- Shell - Mixed navigation

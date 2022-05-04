@@ -1,6 +1,6 @@
 namespace TabbedPageSample;
 
-public partial class AppTabbedPage : TabbedPage
+public partial class AppTabbedPage
 {
 	public AppTabbedPage()
 	{

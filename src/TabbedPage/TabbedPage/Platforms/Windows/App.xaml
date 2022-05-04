@@ -1,8 +1,8 @@
 ﻿<maui:MauiWinUIApplication
-    x:Class="TabbedPage.WinUI.App"
+    x:Class="TabbedPageSample.WinUI.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:maui="using:Microsoft.Maui"
-    xmlns:local="using:TabbedPage.WinUI">
+    xmlns:local="using:TabbedPageSample.WinUI">
 
 </maui:MauiWinUIApplication>

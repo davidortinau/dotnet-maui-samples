@@ -50,14 +50,4 @@
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
 	</ItemGroup>
 
-	<ItemGroup>
-	  <None Remove="Resources\Fonts\fa_solid.ttf" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <MauiXaml Update="AppTabbedPage.xaml">
-	    <Generator>MSBuild:Compile</Generator>
-	  </MauiXaml>
-	</ItemGroup>
-
 </Project>
